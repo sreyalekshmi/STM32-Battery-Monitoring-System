@@ -19,6 +19,3 @@ monitoring system implemented using the STM32 Nucleo-F4 microcontroller.
 ## Folder Structure
 - `Src/` contains main code
 - `Docs/` contains diagrams and output images
-
-## Authors
-Team Members – 23ECE211 Microcontrollers & Interfacing
